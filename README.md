@@ -17,24 +17,10 @@ Technologies Used
 
 Python 3
 
-How to Run the Programs
-
-Install Python (if not installed):
-https://www.python.org/downloads/
-
-Download or clone this repository:
-
-git clone <your-repo-link>
-
 
 Navigate to the project folder:
 
 cd folder-name
-
-
-Run any Python file using:
-
-python filename.py
 
 Purpose
 
